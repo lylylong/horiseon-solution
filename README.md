@@ -24,6 +24,7 @@ https://github.com/lylylong/horiseon-solution.git
 
 - HTML
 - CSS
+- Accessibility
 
 ## Original Authors
 
